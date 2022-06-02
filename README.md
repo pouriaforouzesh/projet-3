@@ -10,6 +10,6 @@ Dans un premier temps, la stratégie est plutôt d'exporter les produits plutôt
 
 Compétences évaluées:
 
-Interpréter une ACP,
-Construire et lire un dendogramme,
-Tester l’adéquation à une loi par un test statistique.
+- Interpréter une ACP, 
+- Construire et lire un dendogramme, 
+- Tester l’adéquation à une loi par un test statistique.
